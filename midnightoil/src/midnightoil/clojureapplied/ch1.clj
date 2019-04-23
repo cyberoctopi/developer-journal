@@ -1,0 +1,2 @@
+(ns midnightoil.ch1)
+

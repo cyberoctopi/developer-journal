@@ -1,0 +1,3 @@
+(ns midnightoil.purelyfunc.accesspatterns)
+
+
